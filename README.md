@@ -1,6 +1,6 @@
 # Lane Departure Warning System for Autonomous Driving
 
-This is A lane deperature warning algorithm based on https://github.com/JunshengFu/driving-lane-departure-warning, new methods are implemented to achieve lane detection and bugs caused by version upadte are fixed.
+This is a lane deperature warning algorithm based on https://github.com/JunshengFu/driving-lane-departure-warning, new methods are implemented to achieve lane detection and bugs caused by version update are fixed.
 
 
 1. In order to detect the lanes, a HSV filter is used instead of a saturation filter to find the yellow lane and white lane seprately.
